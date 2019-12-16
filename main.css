@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+    color: black;
+    /* This is a single-line comment */
+    text-align: center;
+  }
+p {
+    background-color: white;
+    color: red;
+    /* This is a single-line comment */
+    text-align: center;
+  }
